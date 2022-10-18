@@ -1,0 +1,7 @@
+input("Nama\t\t\t: ")
+input("NIM\t\t\t: ")
+input("Kelas Paralel\t\t: ")
+input("Tempat/Tanggal Lahir\t: ")
+input("Alamat\t\t\t: ")
+input("Hobby\t\t\t: ")
+input("No. HP\t\t\t: ")
